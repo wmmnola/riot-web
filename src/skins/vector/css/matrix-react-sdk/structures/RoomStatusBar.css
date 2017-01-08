@@ -36,16 +36,16 @@ limitations under the License.
 }
 
 .mx_RoomStatusBar_placeholderIndicator span {
-    color: #4a4a4a;
+    color: inherit;
     opacity: 0.5;
     position: relative;
     top: -4px;
-/*    
+/*
     animation-duration: 1s;
     animation-name: bounce;
     animation-direction: alternate;
     animation-iteration-count: infinite;
-*/    
+*/
 }
 
 .mx_RoomStatusBar_placeholderIndicator span:nth-child(1) {
@@ -76,7 +76,7 @@ limitations under the License.
 
 .mx_RoomStatusBar_unreadMessagesBar {
     padding-top: 10px;
-    color: #ff0064;
+    color: inherit;
     cursor: pointer;
 }
 
@@ -93,7 +93,7 @@ limitations under the License.
 }
 
 .mx_RoomStatusBar_connectionLostBar_title {
-    color: #ff0064;
+    color: inherit;
 }
 
 .mx_RoomStatusBar_connectionLostBar_desc {
@@ -143,4 +143,3 @@ limitations under the License.
     margin-right: 8px;
     margin-top: -2px;
 }
-

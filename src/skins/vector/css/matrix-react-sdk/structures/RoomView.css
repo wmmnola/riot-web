@@ -60,7 +60,7 @@ limitations under the License.
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: inherit;
     border: 2px #e1dddd solid;
     border-bottom: none;
     position: absolute;
@@ -217,7 +217,7 @@ hr.mx_RoomView_myReadMarker {
 }
 
 .mx_RoomView_callStatusBar .mx_UploadBar_uploadProgressInner {
-    background-color: #fff;
+    background-color: inherit;
 }
 
 .mx_RoomView_callStatusBar .mx_UploadBar_uploadFilename {
@@ -234,7 +234,7 @@ hr.mx_RoomView_myReadMarker {
 }
 
 .mx_RoomView_inCall .mx_RoomView_statusAreaBox {
-    background-color: #76CFA6;
+    background-color: inherit;
     color: #fff;
     position: relative;
 }
@@ -272,7 +272,7 @@ hr.mx_RoomView_myReadMarker {
 .mx_RoomView_ongoingConfCallNotification {
     width: 100%;
     text-align: center;
-    background-color: #ff0064;
+    background-color: inherit;
     color: #fff;
     font-weight: bold;
     padding: 6px 0;
