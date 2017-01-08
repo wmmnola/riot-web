@@ -1,3 +1,7 @@
+# Note: 
+===
+This is my personal fork. It contains very little changes, excpet for stylistic ones. Pictures below.
+
 Riot
 ====
 
